@@ -3,11 +3,29 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import NavBar from './NavBar';
+import TransUnitsList from './TransUnitsList';
+import SearchID from './SearchID';
+import {
+  createBrowserRouter,
+  RouterProvider,
+} from "react-router-dom";
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <App/>,
+  },
+{
+  path:"/transunitslist",
+  element:<TransUnitsList/>
+},
+{path:"/search",
+element:<SearchID/>}
+]);
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={router} />
   </React.StrictMode>
 );
 
