@@ -1,0 +1,31 @@
+﻿@model TransUnitModel
+
+@{
+
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Target</th>
+            <th>Source</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tu in Model.TransUnits)
+        {
+    
+            <tr  style="@(tu.Id == 42007 ? "background-color:green" :"background-color:white")">
+                <td>@tu.Id</td>
+                <td>@tu.target</td>
+                <td>@tu.source</td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+</div>
+

@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{DFC53230-BD46-440B-9C35-39A3232FFA80}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Etteplan-XmlFile-MVC/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Etteplan-XmlFile-MVC/Controllers/HomeController.cs" Line="26" Column="1" />
+      <File FileName="Etteplan-XmlFile-MVC/Models/TransUnitModel.cs" Line="10" Column="6" />
+      <File FileName="Etteplan-XmlFile-MVC/Views/Home/Index.cshtml" Line="21" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Etteplan-XmlFile-MVC" expanded="True">
+            <Node name="Etteplan-XmlFile-MVC" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="XMLFile" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Etteplan-XmlFile-MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>

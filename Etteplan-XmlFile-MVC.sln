@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etteplan-XmlFile-MVC", "Etteplan-XmlFile-MVC\Etteplan-XmlFile-MVC.csproj", "{DFC53230-BD46-440B-9C35-39A3232FFA80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC53230-BD46-440B-9C35-39A3232FFA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC53230-BD46-440B-9C35-39A3232FFA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC53230-BD46-440B-9C35-39A3232FFA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC53230-BD46-440B-9C35-39A3232FFA80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5082E689-02BF-4701-90C0-F4E4CFCAA218}
+	EndGlobalSection
+EndGlobal
