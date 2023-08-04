@@ -1,0 +1,23 @@
+@model List<TransUnit>
+
+<h1>Trans Unit</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Target</th>
+            <th>Source</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tu in Model)
+        {
+            <tr style="@(tu.Id == 42007 ? "background-color:green" :"background-color:white")">
+                <td>@tu.Id</td>
+                <td>@tu.Target</td>
+                <td>@tu.Source</td>
+            </tr>
+                }
+           
+        </tbody>
+</table>

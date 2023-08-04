@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Etteplan-XmlFile-MVC-DB.props" />
+</Project>

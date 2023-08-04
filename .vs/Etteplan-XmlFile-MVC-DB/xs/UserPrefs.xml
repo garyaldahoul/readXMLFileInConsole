@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{1E63F026-6AF2-4977-873D-321372507EC0}|https">
+  <MonoDevelop.Ide.ItemProperties.Etteplan-XmlFile-MVC-DB PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Etteplan-XmlFile-MVC-DB/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Etteplan-XmlFile-MVC-DB/appsettings.Development.json" Line="2" Column="3" />
+      <File FileName="Etteplan-XmlFile-MVC-DB/Program.cs" Line="1" Column="36" />
+      <File FileName="Etteplan-XmlFile-MVC-DB/Models/TransUnit.cs" Line="1" Column="1" />
+      <File FileName="Etteplan-XmlFile-MVC-DB/Data/ApplicationDBContext.cs" Line="15" Column="9" />
+      <File FileName="Etteplan-XmlFile-MVC-DB/Views/Shared/_Layout.cshtml" Line="31" Column="26" />
+      <File FileName="Etteplan-XmlFile-MVC-DB/Controllers/HomeController.cs" Line="18" Column="1" />
+      <File FileName="Etteplan-XmlFile-MVC-DB/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Etteplan-XmlFile-MVC-DB/Controllers/TransUnitController.cs" Line="23" Column="10" />
+      <File FileName="Etteplan-XmlFile-MVC-DB/Views/TransUnit/Index.cshtml" Line="15" Column="95" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Etteplan-XmlFile-MVC-DB" expanded="True">
+            <Node name="Etteplan-XmlFile-MVC-DB" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+                <Node name="TransUnit" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
