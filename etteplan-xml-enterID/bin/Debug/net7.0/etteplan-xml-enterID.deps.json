@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "etteplan-xml-enterID/1.0.0": {
+        "runtime": {
+          "etteplan-xml-enterID.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "etteplan-xml-enterID/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

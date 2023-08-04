@@ -1,0 +1,15 @@
+/Users/User/Projects/etteplan-xml-enterID/etteplan-xml-enterID/bin/Debug/net7.0/etteplan-xml-enterID
+/Users/User/Projects/etteplan-xml-enterID/etteplan-xml-enterID/bin/Debug/net7.0/etteplan-xml-enterID.deps.json
+/Users/User/Projects/etteplan-xml-enterID/etteplan-xml-enterID/bin/Debug/net7.0/etteplan-xml-enterID.runtimeconfig.json
+/Users/User/Projects/etteplan-xml-enterID/etteplan-xml-enterID/bin/Debug/net7.0/etteplan-xml-enterID.dll
+/Users/User/Projects/etteplan-xml-enterID/etteplan-xml-enterID/bin/Debug/net7.0/etteplan-xml-enterID.pdb
+/Users/User/Projects/etteplan-xml-enterID/etteplan-xml-enterID/obj/Debug/net7.0/etteplan-xml-enterID.csproj.AssemblyReference.cache
+/Users/User/Projects/etteplan-xml-enterID/etteplan-xml-enterID/obj/Debug/net7.0/etteplan-xml-enterID.GeneratedMSBuildEditorConfig.editorconfig
+/Users/User/Projects/etteplan-xml-enterID/etteplan-xml-enterID/obj/Debug/net7.0/etteplan-xml-enterID.AssemblyInfoInputs.cache
+/Users/User/Projects/etteplan-xml-enterID/etteplan-xml-enterID/obj/Debug/net7.0/etteplan-xml-enterID.AssemblyInfo.cs
+/Users/User/Projects/etteplan-xml-enterID/etteplan-xml-enterID/obj/Debug/net7.0/etteplan-xml-enterID.csproj.CoreCompileInputs.cache
+/Users/User/Projects/etteplan-xml-enterID/etteplan-xml-enterID/obj/Debug/net7.0/etteplan-xml-enterID.dll
+/Users/User/Projects/etteplan-xml-enterID/etteplan-xml-enterID/obj/Debug/net7.0/refint/etteplan-xml-enterID.dll
+/Users/User/Projects/etteplan-xml-enterID/etteplan-xml-enterID/obj/Debug/net7.0/etteplan-xml-enterID.pdb
+/Users/User/Projects/etteplan-xml-enterID/etteplan-xml-enterID/obj/Debug/net7.0/etteplan-xml-enterID.genruntimeconfig.cache
+/Users/User/Projects/etteplan-xml-enterID/etteplan-xml-enterID/obj/Debug/net7.0/ref/etteplan-xml-enterID.dll

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5515F012-C5DA-4C38-A3EE-ABC63B3EE892}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="etteplan-xml-enterID/Program.cs">
+    <Files>
+      <File FileName="etteplan-xml-enterID/Program.cs" Line="3" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="etteplan-xml-enterID" expanded="True">
+            <Node name="etteplan-xml-enterID" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.etteplan-xml-enterID PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
