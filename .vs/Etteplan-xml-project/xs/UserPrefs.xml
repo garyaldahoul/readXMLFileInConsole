@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FC02B872-DAE8-4356-B845-7E7A0B984263}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Etteplan-xml-project/Program.cs">
+    <Files>
+      <File FileName="Etteplan-xml-project/Program.cs" Line="10" Column="20" />
+      <File FileName="Etteplan-xml-project/sma_gentext.xml" Line="10" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Etteplan-xml-project" expanded="True">
+            <Node name="Etteplan-xml-project" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Etteplan-xml-project PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

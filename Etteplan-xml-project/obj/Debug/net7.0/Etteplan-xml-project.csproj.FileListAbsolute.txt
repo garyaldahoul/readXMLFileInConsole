@@ -1,0 +1,15 @@
+/Users/User/Projects/Etteplan-xml-project/Etteplan-xml-project/bin/Debug/net7.0/Etteplan-xml-project
+/Users/User/Projects/Etteplan-xml-project/Etteplan-xml-project/bin/Debug/net7.0/Etteplan-xml-project.deps.json
+/Users/User/Projects/Etteplan-xml-project/Etteplan-xml-project/bin/Debug/net7.0/Etteplan-xml-project.runtimeconfig.json
+/Users/User/Projects/Etteplan-xml-project/Etteplan-xml-project/bin/Debug/net7.0/Etteplan-xml-project.dll
+/Users/User/Projects/Etteplan-xml-project/Etteplan-xml-project/bin/Debug/net7.0/Etteplan-xml-project.pdb
+/Users/User/Projects/Etteplan-xml-project/Etteplan-xml-project/obj/Debug/net7.0/Etteplan-xml-project.csproj.AssemblyReference.cache
+/Users/User/Projects/Etteplan-xml-project/Etteplan-xml-project/obj/Debug/net7.0/Etteplan-xml-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/User/Projects/Etteplan-xml-project/Etteplan-xml-project/obj/Debug/net7.0/Etteplan-xml-project.AssemblyInfoInputs.cache
+/Users/User/Projects/Etteplan-xml-project/Etteplan-xml-project/obj/Debug/net7.0/Etteplan-xml-project.AssemblyInfo.cs
+/Users/User/Projects/Etteplan-xml-project/Etteplan-xml-project/obj/Debug/net7.0/Etteplan-xml-project.csproj.CoreCompileInputs.cache
+/Users/User/Projects/Etteplan-xml-project/Etteplan-xml-project/obj/Debug/net7.0/Etteplan-xml-project.dll
+/Users/User/Projects/Etteplan-xml-project/Etteplan-xml-project/obj/Debug/net7.0/refint/Etteplan-xml-project.dll
+/Users/User/Projects/Etteplan-xml-project/Etteplan-xml-project/obj/Debug/net7.0/Etteplan-xml-project.pdb
+/Users/User/Projects/Etteplan-xml-project/Etteplan-xml-project/obj/Debug/net7.0/Etteplan-xml-project.genruntimeconfig.cache
+/Users/User/Projects/Etteplan-xml-project/Etteplan-xml-project/obj/Debug/net7.0/ref/Etteplan-xml-project.dll
